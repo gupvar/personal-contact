@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gupta;Varun;Dr.;;
+FN:Dr. Varun Gupta
+ORG:Mike Cottrell College of Business, University of North Georgia
+TITLE:Associate Professor of Logistics and Supply Chain Management
+EMAIL;TYPE=INTERNET,WORK:varun.gupta@ung.edu
+TEL;TYPE=CELL:+15103644514
+URL:https://varungupta.us
+URL:https://www.linkedin.com/in/drvarungupta
+ADR;TYPE=WORK:;;;Atlanta, Georgia;;;;
+NOTE:Logistics and supply chain scholar focused on pricing strategy, supply chain optimization, data analytics, and practical problem solving across industry and academia.
+END:VCARD
